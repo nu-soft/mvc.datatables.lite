@@ -3,7 +3,7 @@ Software is released under MS-RL licence, if somhow it doesn't fit your usage sc
 
 ## To be done (someday when i'll have some spare time)
 - Code Comments
-- Refactiring
+- Refactoring
 - Docs
 - Samples
  
